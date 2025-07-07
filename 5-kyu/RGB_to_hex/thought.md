@@ -1,0 +1,2 @@
+- create function clamp inside the solve, if its 0 return 0 if its 255 return 255, else just return the parameter
+- using fmt with `%02X` it will automatically return hex code from number
