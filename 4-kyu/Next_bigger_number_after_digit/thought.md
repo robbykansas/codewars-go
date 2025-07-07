@@ -1,0 +1,3 @@
+- First i think i just need to change the last number with the little number prior last number, what an innocent
+- I can't solve it myself, but, [he can](https://dev.to/kopiro/kata-resolution-next-bigger-number-with-the-same-digits-41mj)
+- Change it with using go
