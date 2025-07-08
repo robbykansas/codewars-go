@@ -1,0 +1,2 @@
+- just mod 3 or 5, if it can be mod by 3 or 5, increment the number
+- Time Complexity O(n)
