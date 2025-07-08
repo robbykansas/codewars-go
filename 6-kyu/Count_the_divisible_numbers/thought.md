@@ -1,0 +1,7 @@
+- Use mathematical way, for example, lets use example x=6, y=11, k=2
+- 11/2 or y/k is 5.5, consider it as 5
+- (6-1) = 5/2 is 2
+- 5 - 2 = 3
+- Between 6 - 11 that can be divisible by 2 is [6, 8, 10]
+- Since 6 is included, that's why i must minus 1 before counting, so it can be included
+- Time complexity O(1)
