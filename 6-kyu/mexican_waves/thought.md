@@ -1,0 +1,3 @@
+- Loop the string, use [unicode](https://pkg.go.dev/unicode)
+- With unicode, change the str[i] from rune into unicode toUpper, and append it
+- Time Complexity O(n)
