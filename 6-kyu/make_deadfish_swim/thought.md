@@ -1,0 +1,2 @@
+- brute force way to solve this, nothing to explain, it is as it is
+- Time complexity O(n)
