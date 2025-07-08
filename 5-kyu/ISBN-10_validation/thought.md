@@ -1,0 +1,3 @@
+- check if len is 10, if not then false
+- during loop between 0 to 8, which is 1 to 9 basically, if it can't be parsed to int, then just return false, if not, multiply it with index + 1
+- when in last index, there is possible of byte 'X' that has 10 number, but since its for sure in last index, then the value is 100, for 10 * (9+1), hence it can be simplified with 1 if, if its last index and value is either 'x' or 'X'
