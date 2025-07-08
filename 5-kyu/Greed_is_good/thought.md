@@ -1,0 +1,2 @@
+- use hashmap to count the frequency
+- loop the hashmap and check the value, if its >= 3, add score and reduce the value by 3, because if the key is 1 and it has 5 of 1, it need to be scored by 1200, 1000 for 3 of 1, 200 for 2 of 1
