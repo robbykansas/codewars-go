@@ -1,0 +1,4 @@
+- Create max number comparison
+- Compare current + number with number, only keep the max
+- Compare maximum with current, keep the max
+- Time complexity O(n)
