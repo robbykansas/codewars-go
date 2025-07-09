@@ -1,0 +1,3 @@
+- create fib number with return of sum fib number
+- rectangle is 4, so, 4 * sum fib
+- Time complexity O(n) because of function fib
