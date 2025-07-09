@@ -1,0 +1,7 @@
+- append yes it takes only O(1) but if its just append, but if its delete some index that means O(n) since it needs to reorganize
+- if i use append to reorganize like `arr = append(arr[:i], arr[i+1:])` that means the total of time complexity become O(n^2) which is the worst, then i need to think how just replace it
+- order is placed as placeholder, to know where the index of next non zero should be placed
+- `[]int{1, 2, 0, 1, 0, 1, 0, 3, 0, 1}` use this for example
+- since, arr[0] and arr[1] is non zero, order will be increment, but since arr[2] is zero, order will not be incremented, because we know, if we want to replace something, it should be the index of order
+- arr[4] is non zero, that means, it should be replaced with arr[order] which is arr[3], and order will be incremented, `order = 4` for next
+- Time complexity O(n)
