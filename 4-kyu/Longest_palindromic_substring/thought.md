@@ -1,0 +1,1 @@
+- Using Manacher's algorithms
